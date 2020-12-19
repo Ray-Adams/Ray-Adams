@@ -25,6 +25,6 @@
 
 <h2>📈&nbsp;&nbsp;GitHub Stats</h2>
 <p>
-  <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ray-Adams&show_icons=true&count_private=true&theme=vue" height=200 />
+  <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ray-Adams&show_icons=true&count_private=true&theme=vue&hide_rank=true" height=200 />
   <img alt = "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray-Adams&theme=vue" height=200 />
 </p>
