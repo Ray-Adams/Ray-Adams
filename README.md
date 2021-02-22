@@ -17,10 +17,10 @@
 
 <h2>🔥&nbsp;&nbsp;Awesome Repos</h2>
 <a href="https://github.com/thetypingmatch/lecashbot" target="_blank">
-  <img alt = "ReadMe Card" src = "https://github-readme-stats.vercel.app/api/pin/?username=thetypingmatch&repo=lecashbot&theme=vue" />
+  <img alt = "ReadMe Card" src = "https://github-readme-stats.vercel.app/api/pin/?username=thetypingmatch&repo=lecashbot&theme=vue" height="125" />
 </a>
 <a href="https://github.com/Limitized/nitrogarage" target="_blank">
-  <img alt = "ReadMe Card" src = "https://github-readme-stats.vercel.app/api/pin/?username=limitized&repo=nitrogarage&theme=vue" />
+  <img alt = "ReadMe Card" src = "https://github-readme-stats.vercel.app/api/pin/?username=limitized&repo=nitrogarage&theme=vue" height="125" />
 </a>
 
 <h2>📈&nbsp;&nbsp;GitHub Stats</h2>
