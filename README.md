@@ -8,13 +8,6 @@
   <li>Web APIs</li>
 </ul>
 
-<h2>💻&nbsp;&nbsp;Programming Languages</h2>
-<p>
-  <img alt = "JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
-  <img alt = "HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img alt = "CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
 <h2>🔥&nbsp;&nbsp;Awesome Repos</h2>
 <a href="https://github.com/thetypingmatch/lecashbot" target="_blank">
   <img alt = "ReadMe Card" src = "https://github-readme-stats.vercel.app/api/pin/?username=thetypingmatch&repo=lecashbot&theme=vue" height="125" />
